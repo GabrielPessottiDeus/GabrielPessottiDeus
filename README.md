@@ -16,7 +16,7 @@ PPM. (Ainda em desenvolvimento!)
   - [Last-Stand](https://github.com/GabrielPessottiDeus/Last-Stand) - Jogo Shot'em up
   - [Trabalho Interdiciplinar](https://github.com/GabrielPessottiDeus/TI6OnePieceFinder2000) - Algoritmo otimizado que identifica com precisão o frame, temporada, episódio e segundo exato de uma série por meio de análise de imagens, com uso de paralelismo e processamento distribuído.
 </details>
-  <h1></h1>
+<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
