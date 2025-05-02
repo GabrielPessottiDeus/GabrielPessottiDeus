@@ -4,6 +4,16 @@
 
 <h3 align="center">A Brazilian Computer Science student!</h3>
 
+<details><summary><h2>👾 Projetos</h2></summary>
+
+  - [MoodMonitor](https://github.com/GabrielPessottiDeus/MoodMonitor) - Aplicativo em Flutter de Diário de Sentimentos
+  - [Caixa de Medicamentos Inteligente](https://github.com/GabrielPessottiDeus/projeto_caixa_medicamentos) - Dispositivo equipado com sensores e LEDs voltado para auxilio dos idosos.
+  - [Last-Stand](https://github.com/GabrielPessottiDeus/Last-Stand) - Jogo Shot'em up
+  - [Trabalho Interdiciplinar](https://github.com/GabrielPessottiDeus/TI6OnePieceFinder2000) - Algoritmo otimizado que identifica com precisão o frame, temporada, episódio e segundo exato de uma série por meio de análise de imagens, com uso de paralelismo e processamento distribuído.
+  - [Last-Stand](https://github.com/GabrielPessottiDeus/Last-Stand) - Jogo Shot'em up
+</details>
+  <h1></h1>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
