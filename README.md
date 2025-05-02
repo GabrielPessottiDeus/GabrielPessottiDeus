@@ -7,6 +7,11 @@
 <details><summary><h2>👾 Projetos</h2></summary>
 
   - [MoodMonitor](https://github.com/GabrielPessottiDeus/MoodMonitor) - Aplicativo em Flutter de Diário de Sentimentos
+  - [Arcade Plataform](https://github.com/GabrielPessottiDeus/Arcade-Plataform) - Plataforma de jogos retrô com suporte a múltiplas bibliotecas gráficas e jogos carregados dinamicamente via
+plugins.
+  - [Ray Tracer](https://github.com/GabrielPessottiDeus/Ray-Tracer) - Renderizador 3D por ray tracing com suporte a cenas configuráveis, luzes, materiais e geração de imagem em
+PPM. (Ainda em desenvolvimento!)
+  - [NanoTekSpice](https://github.com/GabrielPessottiDeus/NanoTekSpice) - Simulador de circuitos lógicos digitais em C++, capaz de interpretar arquivos de configuração e simular componentes como portas lógicas, flip-flops e registradores.
   - [Caixa de Medicamentos Inteligente](https://github.com/GabrielPessottiDeus/projeto_caixa_medicamentos) - Dispositivo equipado com sensores e LEDs voltado para auxilio dos idosos.
   - [Last-Stand](https://github.com/GabrielPessottiDeus/Last-Stand) - Jogo Shot'em up
   - [Trabalho Interdiciplinar](https://github.com/GabrielPessottiDeus/TI6OnePieceFinder2000) - Algoritmo otimizado que identifica com precisão o frame, temporada, episódio e segundo exato de uma série por meio de análise de imagens, com uso de paralelismo e processamento distribuído.
